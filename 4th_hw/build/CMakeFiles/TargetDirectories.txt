@@ -1,0 +1,3 @@
+/home/shamik-satanic/modeling_homework_tasks_new/4th_hw/build/CMakeFiles/ReturnToOrigin.dir
+/home/shamik-satanic/modeling_homework_tasks_new/4th_hw/build/CMakeFiles/edit_cache.dir
+/home/shamik-satanic/modeling_homework_tasks_new/4th_hw/build/CMakeFiles/rebuild_cache.dir

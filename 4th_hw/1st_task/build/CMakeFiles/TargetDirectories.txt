@@ -1,0 +1,4 @@
+/home/shamik-satanic/modeling_homework_tasks_new/4th_hw/1st_task/build/CMakeFiles/RandomWalk.dir
+/home/shamik-satanic/modeling_homework_tasks_new/4th_hw/1st_task/build/CMakeFiles/edit_cache.dir
+/home/shamik-satanic/modeling_homework_tasks_new/4th_hw/1st_task/build/CMakeFiles/rebuild_cache.dir
+/home/shamik-satanic/modeling_homework_tasks_new/4th_hw/1st_task/build/CMakeFiles/RandomWalk_autogen.dir

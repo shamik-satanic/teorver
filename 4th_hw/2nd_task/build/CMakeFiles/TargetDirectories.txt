@@ -1,0 +1,4 @@
+/home/shamik-satanic/modeling_homework_tasks_new/4th_hw/2nd_task/build/CMakeFiles/PointMotion.dir
+/home/shamik-satanic/modeling_homework_tasks_new/4th_hw/2nd_task/build/CMakeFiles/edit_cache.dir
+/home/shamik-satanic/modeling_homework_tasks_new/4th_hw/2nd_task/build/CMakeFiles/rebuild_cache.dir
+/home/shamik-satanic/modeling_homework_tasks_new/4th_hw/2nd_task/build/CMakeFiles/PointMotion_autogen.dir

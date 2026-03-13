@@ -1,0 +1,14 @@
+{
+    "Y0": 10.0,
+    "h": 1.0,
+    "n": 100,
+    "runs": 1000,
+    "l_target": 3,
+    "distribution": {
+        "type": "Uniform",
+        "s_min": -3.0,
+        "s_max": 3.0,
+        "n_trials": 6,
+        "prob": 0.5
+    }
+}
